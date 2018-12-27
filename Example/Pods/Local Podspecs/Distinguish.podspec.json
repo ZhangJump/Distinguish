@@ -1,0 +1,22 @@
+{
+  "name": "Distinguish",
+  "version": "0.1.0",
+  "summary": "A short description of Distinguish.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhangjump@yeah.net/Distinguish",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangjump@yeah.net": "zhangjump@yeah.net"
+  },
+  "source": {
+    "git": "https://github.com/zhangjump@yeah.net/Distinguish.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Distinguish/Classes/**/*"
+}

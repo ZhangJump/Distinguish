@@ -1,0 +1,6 @@
+framework module Distinguish {
+  umbrella header "Distinguish-umbrella.h"
+
+  export *
+  module * { export * }
+}

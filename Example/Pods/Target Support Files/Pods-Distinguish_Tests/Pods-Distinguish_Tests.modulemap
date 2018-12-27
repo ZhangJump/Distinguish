@@ -1,0 +1,6 @@
+framework module Pods_Distinguish_Tests {
+  umbrella header "Pods-Distinguish_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
